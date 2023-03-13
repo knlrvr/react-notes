@@ -8,9 +8,10 @@
 A notes app made with React. This app uses localStorage to store your personal notes and logs the date and time of 
 any notes you create. You can view, edit, or delete any notes you've created. This app also features a search bar so you can easily find any notes you have created! You can also toggle between dark mode or light mode. 
 
+A preview of each note is displayed on the home page. Clicking the note will allow to either edit or delete that note. Notes are displayed in order of newest to oldest. 
 
-
-Each note used to display with a random background color, but on page reload, the background colors would occasionally be absent from one or more of the notes.
+> Each note used to display with a random background color, but on page reload, the background colors would 
+> occasionally be absent from one or more of the notes.
 
 > Code for random background colors (not included in commit)
 
