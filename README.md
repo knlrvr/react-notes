@@ -8,6 +8,31 @@ Each note used to display with a random background color, but on page reload, th
 
 > Code for random background color
 
+`
+var colors = [
+  "#c897ce", 
+  "#eb8890",  
+  "#7facde", 
+  "#92d59a", 
+  "#e3d586",
+  "#d26f6f",
+  "#918ed4",
+  "#88cf8e",
+  "#e5e87d",
+  "#dea36f",
+];
+ 
+ 
+var bgColor = document.getElementsByClassName('note');
+ 
+var uniqueColorIndex = 0;
+ 
+ for(var i=0; i < bgColor.length; i++) {
+  
+    uniqueColorIndex = Math.floor(Math.random() * (colors.length + 1));
+    
+    bgColor[i].style['background-color'] = colors[uniqueColorIndex]; };
+`
 
 
 ## View
