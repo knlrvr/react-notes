@@ -39,7 +39,7 @@ for(var i=0; i < bgColor.length; i++) {
 
 
 ## View
-[Live Demo]()
+[Live Demo](https://react-notes-one.vercel.app/)
 
 ## Built With
 - [React](https://reactjs.org/)
