@@ -12,7 +12,6 @@ A preview of each note is displayed on the home page. Clicking the note will all
 
 > Each note used to display with a random background color, but on page reload, the background colors would 
 > occasionally be absent from one or more of the notes.
-
 > Code for random background colors (not included in commit)
 
 ```
