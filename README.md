@@ -22,9 +22,11 @@ Each note used to display with a random background color, but on page reload, th
     "#dea36f",
   ];
  `
+ 
  `
   var bgColor = document.getElementsByClassName('note');
  `
+ 
  `
   var uniqueColorIndex = 0;
   for(var i=0; i < bgColor.length; i++){
