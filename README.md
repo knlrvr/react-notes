@@ -7,6 +7,7 @@ A notes app made with React. This app uses localStorage to store your notes, sim
 Each note used to display with a random background color, but on page reload, the background colors would occasionally be absent from one or more of the notes.
 
 > Code for random background color
+
 `
   var colors = [
     "#c897ce", 
