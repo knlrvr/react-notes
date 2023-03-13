@@ -24,7 +24,8 @@ var colors = [
  
 var bgColor = document.getElementsByClassName('note');
 var uniqueColorIndex = 0;
-  for(var i=0; i < bgColor.length; i++) {
+
+for(var i=0; i < bgColor.length; i++) {
   uniqueColorIndex = Math.floor(Math.random() * (colors.length + 1));
   bgColor[i].style['background-color'] = colors[uniqueColorIndex]; };
 ```
