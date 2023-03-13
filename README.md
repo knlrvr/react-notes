@@ -2,6 +2,8 @@
 
 ![react-notes](https://user-images.githubusercontent.com/91632194/224813184-8bab37c3-608f-4455-81b7-a42b7ea907b6.png)
 
+![react-notes-light](https://user-images.githubusercontent.com/91632194/224820691-9c52f0fd-55f4-4984-a535-0e98e3e34f41.png)
+
 ## Description
 A notes app made with React. This app uses localStorage to store your personal notes and logs the date and time of 
 any notes you create. You can view, edit, or delete any notes you've created. This app also features a search bar so you can easily find any notes you have created! You can also toggle between dark mode or light mode. 
