@@ -8,7 +8,7 @@ Each note used to display with a random background color, but on page reload, th
 
 > Code for random background colors (not included in commit)
 
-`
+```
 var colors = [
   "#c897ce", 
   "#eb8890",  
@@ -21,17 +21,13 @@ var colors = [
   "#e5e87d",
   "#dea36f",
 ];
-`
  
-`var bgColor = document.getElementsByClassName('note');`
- 
-`var uniqueColorIndex = 0;`
- 
-`for(var i=0; i < bgColor.length; i++) {`
-  
-`uniqueColorIndex = Math.floor(Math.random() * (colors.length + 1));`
-    
-`bgColor[i].style['background-color'] = colors[uniqueColorIndex]; };`
+var bgColor = document.getElementsByClassName('note');
+var uniqueColorIndex = 0;
+  for(var i=0; i < bgColor.length; i++) {
+  uniqueColorIndex = Math.floor(Math.random() * (colors.length + 1));
+  bgColor[i].style['background-color'] = colors[uniqueColorIndex]; };
+```
 
 
 ## View
