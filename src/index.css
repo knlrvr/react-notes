@@ -142,8 +142,16 @@ h2 {
     opacity: 0.5;
 }
 
-.note:nth-child(5n) {
-    grid-column: 1/3
+.note:nth-child(8) {
+    grid-column: 1/3;
+}
+
+.note:nth-child(5n + 8) {
+    grid-column: 1/3;
+}
+
+.note:nth-child(1) {
+    grid-row: 1/3;
 }
 
 .note h4 {
