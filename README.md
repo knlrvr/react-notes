@@ -1,8 +1,8 @@
 <h2 align="center"> React Notes </h2>
 
-![react-notes](https://user-images.githubusercontent.com/91632194/224813184-8bab37c3-608f-4455-81b7-a42b7ea907b6.png)
+![react-notes](https://user-images.githubusercontent.com/91632194/225176736-56af85ed-4eda-4afd-9ce8-842bb8c2eb02.png)
 
-![react-notes-light](https://user-images.githubusercontent.com/91632194/224820691-9c52f0fd-55f4-4984-a535-0e98e3e34f41.png)
+![react-notes-light](https://user-images.githubusercontent.com/91632194/225176760-0c5ac2ac-8b33-4955-b6e6-0ab9185d1405.png)
 
 ## Description
 A notes app made with React. This app uses localStorage to store your personal notes and logs the date and time of 
