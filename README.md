@@ -8,7 +8,7 @@
 A notes app made with React. This app uses localStorage to store your personal notes and logs the date and time of 
 any notes you create. You can view, edit, or delete any notes you've created. This app also features a search bar so you can easily find any notes you have created! You can also toggle between dark mode or light mode. 
 
-A preview of each note is displayed on the home page. Clicking the note will allow to either edit or delete that note. Notes are displayed in order of newest to oldest. 
+A preview of each note is displayed on the home page, and each note here has a random background color that will generate every time the page is loaded. Clicking the note will allow you to either edit or delete that note. Notes are displayed in order of newest to oldest. 
 
 ## View
 [Live Demo](https://react-notes-one.vercel.app/)
