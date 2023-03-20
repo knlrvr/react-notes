@@ -19,7 +19,7 @@ A preview of each note is displayed on the home page, and each note here has a r
 
 ## Running This Project Yourself 
 1. Clone the project to your machine with `git clone https://github.com/knlrvr/react-notes.git`
-2. On a command line inside of the application's folder, run `npm start`
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
-
+2. On a command line inside of the application's folder, run `npm install`
+3. Again, on a command line inside of the application's folder, run `npm start`
+4. Open `http://localhost:3000` in a browser to view the application
 
